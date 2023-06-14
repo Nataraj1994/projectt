@@ -211,7 +211,7 @@ h1{
     height: 40px;
     color: #fff;
     font-size: 20px;
-    border-radius: 2px;
+    border-radius: 3px;
 
 }
 .loginbox input[type="submit"]:hover
